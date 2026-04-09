@@ -1,0 +1,7 @@
+[2026-04-09T18:53:49Z] === AST ITERATION 1 START | repo=pyinvoke/invoke sha=87c895f9 ===
+[2026-04-09T18:53:49Z] [iter=1] PHASE START: ast repo=pyinvoke/invoke sha=87c895f9
+[2026-04-09T18:53:49Z] [iter=1] Building AST aggregate chunks
+[2026-04-09T18:54:37Z] [iter=1] AST chunks built count=1 triples=589255
+[2026-04-09T18:54:37Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/87c895f9b76cdf6f50a99e859f867c39e0247ebf/.complete
+[2026-04-09T18:54:37Z] [iter=1] PHASE END: ast elapsed_s=48 elapsed_min=0.8
+[2026-04-09T18:54:37Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
